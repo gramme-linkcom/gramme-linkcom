@@ -14,7 +14,7 @@
 </p>
 
 > SNS Accounts
-<a href="https://www.9ramme.net">
+<a href="https://x.com/gramme_linkcom">
   <img height="20" src="https://img.shields.io/badge/SNS-X(Twitter)-twitter?logo=x&logoSize=auto&label=%23Gramme-linkcom&color=blue" />
 </a>
 
