@@ -9,7 +9,7 @@
   </a>
 </p>
 
->>>what I made<<<
+>what I made<
 - web site (html, css ,js)
 - 3D, 2D Game (GDScript, C# etc.)
 
