@@ -13,12 +13,12 @@
   </a>
 </p>
 
-> SNS Accounts
+> <h3>SNS Accounts</h3>
 <a href="https://x.com/gramme_linkcom">
   <img height="20" src="https://img.shields.io/badge/SNS-X(Twitter)-twitter?logo=x&logoSize=auto&label=%23Gramme-linkcom&color=blue" />
 </a>
 
-> <h3>what are you making</h3>
+> <h3>what are you making?</h3>
 - web site (html, css ,js)
 - 3D, 2D Game (GDScript, C# etc.)
 
