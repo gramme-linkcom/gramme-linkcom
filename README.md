@@ -13,22 +13,6 @@
   </a>
 </p>
 
-> <h3>Development environment</h3>
-
-> <h3>Main environment</h3>
-<p>Device Type: Laptop</p>
-<p>OS     : Windows 11</p>
-<p>CPU    : Intel Core i7 12650H</p> 
-<p>RAM    : 32GB</p>
-<p>GPU    : Nvidia Geforce RTX 4060 Laptop</p>
-
-> <h3>Server Development Environment</h3>
-<p>Device Type: Desktop</p>
-<p>OS     : Windows 11</p>
-<p>CPU    : AMD Ryzen 7 1700X</p> 
-<p>RAM    : 32GB</p>
-<p>GPU    : Nvidia Geforce GTX 1660 Super</p>
-
 > <h3>SNS Accounts</h3>
 <a href="https://x.com/9ramme">
   <img height="20" src="https://img.shields.io/badge/SNS-X(Twitter)-twitter?logo=x&logoSize=auto&label=%239ramme&color=blue" />
