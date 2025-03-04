@@ -1,4 +1,4 @@
-<h1>Hello. nice to meet you!</h1>
+<h1>Hello there!</h1>
 
 <h2>I'm a Japanese student software developer.</h2>
 <p align="left">
@@ -14,14 +14,18 @@
 </p>
 
 > <h3>SNS Accounts</h3>
-<a href="https://x.com/gramme_linkcom">
-  <img height="20" src="https://img.shields.io/badge/SNS-X(Twitter)-twitter?logo=x&logoSize=auto&label=%23Gramme-linkcom&color=blue" />
+<a href="https://x.com/9ramme">
+  <img height="20" src="https://img.shields.io/badge/SNS-X(Twitter)-twitter?logo=x&logoSize=auto&label=%239ramme&color=blue" />
 </a>
 
-> <h3>what are you making?</h3>
+> <h3>What I can make</h3>
 - web site (html, css ,js)
 - 3D, 2D Game (GDScript, C# etc.)
 
+> <h3>Game Developer Team</h3>
+<img src="https://github.com/user-attachments/assets/02c58958-1139-452e-b102-7e770865c29f" style="width:500px;">
+<h4>I am a member of xe-Non, a game development team of technical college students.</h4>
+<a href="https://github.com/xeNon-gamedev">For more information</a>
 <!--
 **gramme-linkcom/gramme-linkcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
