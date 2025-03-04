@@ -37,6 +37,7 @@
 > <h3>What I can make</h3>
 - web site (html, css ,js)
 - 3D, 2D Game (GDScript, C# etc.)
+- Data server system
 
 > <h3>Game Developer Team</h3>
 <img src="https://github.com/user-attachments/assets/02c58958-1139-452e-b102-7e770865c29f" style="width:500px;">
