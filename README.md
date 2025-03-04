@@ -1,6 +1,6 @@
-<h1>Hello there!</h1>
+<h1>Hello there👋</h1>
 
-<h2>I'm a Japanese student software developer.</h2>
+<h2>I'm a Japanese student software developer.🧑‍💻</h2>
 <p align="left">
   <a href="https://github.com/gramme-linkcom">
     <img height="20" src="https://komarev.com/ghpvc/?username=gramme-linkcom" />
@@ -12,6 +12,22 @@
     <img height="20" src="https://img.shields.io/badge/My_website-link-website?logoSize=auto" />
   </a>
 </p>
+
+> <h3>Development environment</h3>
+
+> <h3>Main environment</h3>
+<p>Device Type: Laptop</p>
+<p>OS     : Windows 11</p>
+<p>CPU    : Intel Core i7 12650H</p> 
+<p>RAM    : 32GB</p>
+<p>GPU    : Nvidia Geforce RTX 4060 Laptop</p>
+
+> <h3>Server Development Environment</h3>
+<p>Device Type: Desktop</p>
+<p>OS     : Windows 11</p>
+<p>CPU    : AMD Ryzen 7 1700X</p> 
+<p>RAM    : 32GB</p>
+<p>GPU    : Nvidia Geforce GTX 1660 Super</p>
 
 > <h3>SNS Accounts</h3>
 <a href="https://x.com/9ramme">
