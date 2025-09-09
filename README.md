@@ -26,7 +26,7 @@
 - SNS service
 
 > <h3>Game Developer Team</h3>
-<img src="https://github.com/user-attachments/assets/02c58958-1139-452e-b102-7e770865c29f" style="width:500px;">
+<img src="https://github.com/xeNon-gamedev/.github/raw/main/contents/cl_logo.png" style="width:500px;">
 <h4>I am a member of xe-Non, a game development team of technical college students.</h4>
 <a href="https://github.com/xeNon-gamedev">For more information</a>
 <!--
